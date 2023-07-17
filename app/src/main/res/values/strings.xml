@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Music_player</string>
+
+    <string name="_4_12">4:12</string>
+    <string name="_1_37">1:37</string>
+    <string name="song_title">Song Title</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="now_playing">now playing</string>
+    <string name="Angry">angry</string>
+    <string name="Happy">happy</string>
+    <string name="Sad">sad</string>
+    <string name="Neutral">neutral</string>
+    <string name="emotion">Emotion</string>
+    <string name="_0_0">0:0</string>
+    <string name="previous">Previous</string>
+    <string name="pause_music">Pause Music</string>
+    <string name="play_music">Play Music</string>
+    <string name="next">Previous</string>
+
+</resources>
